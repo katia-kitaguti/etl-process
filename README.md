@@ -6,5 +6,5 @@ This project is divided into:
 - User`s Information;
 - Subscription Information;
 - Engagement metrics;
-- Customer Support interaction (Since the data extracted from Kaggle only have the number of interactions with customers, normally companies have a table which contains the registration of customer interaction, which day users have interacted with customer support, for instance. So based on it, I created this table based on [GabsAki tutorial](https://github.com/GabsAki/gb_mysql_db) as a  reference)
+- Customer Support interaction (Since the data extracted from Kaggle only have the number of interactions of users and considering that normally companies have a table which contains the registration of each customer support interaction, which day users have interacted with it, for instance. So based on it, I created this table using [GabsAki tutorial](https://github.com/GabsAki/gb_mysql_db) as a  reference)
 3. Uploading these 4 tables in Docker Postgres instance. 
