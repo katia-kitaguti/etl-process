@@ -1,7 +1,7 @@
 # 🧭 ETL Process
 This project was developed to improve skills in ETL process using DOCKER and Python. 
 This project is divided into:
-1. Exploratory analysis of a [base downloaded from Kaggle]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/](https://www.kaggle.com/datasets/arnavsmayan/amazon-prime-userbase-dataset))
+1. Exploratory analysis of a [base downloaded from Kaggle]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/](https://www.kaggle.com/datasets/arnavsmayan/amazon-prime-userbase-dataset)
 2. Dividing this table extracted from Kaggle in 4 tables
 - User`s Information;
 - Subscription Information;
